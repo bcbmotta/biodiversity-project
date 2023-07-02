@@ -1,7 +1,7 @@
 # Data Science Foundations Skill Path
 
 ## Course Description
-    Data Science is one of the most in-demand skillsets that companies are constantly hiring for. This Skill Path will teach you the basics of cleaning, analyzing, and visualizing data. You will learn industry-standard languages and libraries including Python, pandas, and SQL. Along the way, you will create real-world projects to practice and demonstrate your analytics skills.
+Data Science is one of the most in-demand skillsets that companies are constantly hiring for. This Skill Path will teach you the basics of cleaning, analyzing, and visualizing data. You will learn industry-standard languages and libraries including Python, pandas, and SQL. Along the way, you will create real-world projects to practice and demonstrate your analytics skills.
 
 ## Final Project
 For this project, you will interpret data from the National Parks Service about endangered species in different parks.
